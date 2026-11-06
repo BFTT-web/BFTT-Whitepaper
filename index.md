@@ -39,8 +39,7 @@ BiFinance 致力于连接传统金融与去中心化金融，探索现实世界�
 
 ### 阅读完整中英文白皮书
 
-[**BFTT Whitepaper 1.0.0 →**](BFTT-Whitepaper.md)
-
+[**BFTT Whitepaper 1.0.0 →**](https://github.com/BFTT-web/BFTT-Whitepaper/blob/main/BFTT-Whitepaper.md)
 ---
 
 **Official Documentation**
