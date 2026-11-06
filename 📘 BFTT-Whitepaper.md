@@ -5,7 +5,7 @@
 **Version:** 1.0.0  
 **Network:** BiFinance & BiChain  
 **Target:** NASDAQ IPO (Ticker: BFTT)  
-**Repository:** `github.com/BiFinance-Foundation/BFTT-Whitepaper`
+**Repository:** `github.com/BFTT-web/BFTT-Whitepape`
 
 ---
 
